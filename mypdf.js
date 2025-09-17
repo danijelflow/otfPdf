@@ -191,7 +191,7 @@ class CustomPDF {
 
 const customPdf = new CustomPDF(
   "[embed-pdf]",
-  "https://cdn.prod.website-files.com/68c479e921d502430bd414be/68ca8883f76b18b20c7b2bd2_OneTeamFunding-App-V3.pdf"
+  "https://cdn.prod.website-files.com/68c479e921d502430bd414be/68ca943b993513802d80adcf_OneTeamFunding-App-V3%20resized.pdf"
 );
 
 export default customPdf;
